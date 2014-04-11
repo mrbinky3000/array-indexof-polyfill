@@ -1,5 +1,6 @@
 /**
- * Array indexOf() polyfill for ie < 9.
+ * Array indexOf() polyfill for ie < 9. Packaged for Bower by
+ * Matthew Toledo.  Original author was Julien Bouquillon.
  * 
  * @see https://gist.github.com/revolunet/1908355
  * @author Julien Bouquillon
