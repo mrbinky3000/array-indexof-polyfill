@@ -1,6 +1,7 @@
 {
     "name": "ArrayIndexOfPolyfill",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "main" : "dist/array-indexof-polyfill.js",
     "ignore": [
         "bower.json",
         "README.md"    
